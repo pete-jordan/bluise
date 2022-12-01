@@ -1,10 +1,10 @@
 {
   "title": "Homev",
   "titleTemplate": "| Bluise",
-  "welcomeText": "# Jordan Ventures LLC\n\nJordan Ventures is a holding company for exploring various technology enabled ventures.  It is founded and run by Pete Jordan.  The company may operate ventures or make investments in existing ventures or start-ups.\n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
+  "welcomeText": "# Jordan Ventures LLC\n\nJordan Ventures is an incubator for exploring various technology enabled ventures.  It is founded and run by Pete Jordan.  The company may operate ventures or make investments in existing ventures or start-ups.\n",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "seoDescription": "Home page for Jordan Ventures LLC, an incubator",
   "seoMetaImage": ""
 }
